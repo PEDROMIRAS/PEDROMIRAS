@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Soy un apasionado **Desarrollador de Aplicaciones Web** que actualmente está ampliando sus habilidades y construyendo proyectos que resuelven problemas del mundo real. Me encanta aprender nuevas tecnologías y contribuir a la comunidad de desarrolladores.
+Soy un **Desarrollador de Aplicaciones Web** que actualmente está ampliando sus habilidades y construyendo proyectos que resuelven problemas del mundo real. Me encanta aprender nuevas tecnologías y contribuir a la comunidad de desarrolladores.
 
 - Actualmente estoy aprendiendo **Desarrollo de Aplicaciones Web**
 - Siempre explorando nuevos frameworks y mejores prácticas
