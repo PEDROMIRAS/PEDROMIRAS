@@ -6,7 +6,6 @@ I'm a passionate **Web Application Developer** currently expanding my skills and
 
 - I'm currently learning **Web Application Development**
 - Always exploring new frameworks and best practices
-- Ask me about Java, JavaScript, and web development
 - How to reach me: Check out my socials below!
 
 ---
