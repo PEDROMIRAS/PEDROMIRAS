@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Soy un **Desarrollador de Aplicaciones Web** que actualmente está ampliando sus habilidades y construyendo proyectos que resuelven problemas del mundo real. Me encanta aprender nuevas tecnologías y contribuir a la comunidad de desarrolladores.
+Soy un apasionado **Desarrollador de Aplicaciones Web** que actualmente está ampliando sus habilidades y construyendo proyectos que resuelven problemas del mundo real. Me encanta aprender nuevas tecnologías y contribuir a la comunidad de desarrolladores.
 
 - Actualmente estoy aprendiendo **Desarrollo de Aplicaciones Web**
 - Siempre explorando nuevos frameworks y mejores prácticas
@@ -25,6 +25,14 @@ Soy un **Desarrollador de Aplicaciones Web** que actualmente está ampliando sus
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromiras&show_icons=true&theme=dark&locale=es)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromiras&layout=compact&theme=dark&locale=es)
 
 ---
 
