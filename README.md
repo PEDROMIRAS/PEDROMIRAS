@@ -1,4 +1,4 @@
-# Hi there, I'm Pedro Miras 👋
+# Hi there, I'm Pedro Miras
 
 ## About Me
 
@@ -6,6 +6,7 @@ I'm a passionate **Web Application Developer** currently expanding my skills and
 
 - I'm currently learning **Web Application Development**
 - Always exploring new frameworks and best practices
+- Ask me about Java, JavaScript, and web development
 - How to reach me: Check out my socials below!
 
 ---
@@ -30,14 +31,11 @@ I'm a passionate **Web Application Developer** currently expanding my skills and
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromiras&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromiras&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedromiras&theme=radical&hide_border=true)
 
 ---
 
@@ -60,12 +58,4 @@ My personal portfolio website hosted on GitHub Pages. Check it out live at [pedr
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
-
-<div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
-</div>
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
