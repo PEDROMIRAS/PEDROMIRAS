@@ -28,14 +28,6 @@ Soy un **Desarrollador de Aplicaciones Web** que actualmente está ampliando sus
 
 ---
 
-## Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromiras&show_icons=true&theme=dark&locale=es)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromiras&layout=compact&theme=dark&locale=es)
-
----
-
 ## Proyecto Destacado
 
 ### [Sitio Web de Portfolio Personal](https://github.com/pedromiras/pedromiras.github.io)
