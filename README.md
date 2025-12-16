@@ -32,6 +32,8 @@ Soy un **Desarrollador de Aplicaciones Web** que actualmente está ampliando sus
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PEDROMIRAS&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+---
+
 ## Proyecto Destacado
 
 ### [Sitio Web de Portfolio Personal](https://github.com/pedromiras/pedromiras.github.io)
