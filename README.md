@@ -54,8 +54,3 @@ Mi sitio web de portfolio personal alojado en GitHub Pages. Échale un vistazo e
 
 **"El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House**
 
-###
-
-<img src="https://raw.githubusercontent.com/PEDROMIRAS/PEDROMIRAS/output/snake.svg" alt="Snake animation" />
-
-###
