@@ -6,7 +6,6 @@ Soy un **Desarrollador de Aplicaciones Web** que actualmente está ampliando sus
 
 - Actualmente estoy aprendiendo **Desarrollo de Aplicaciones Web**
 - Siempre explorando nuevos frameworks y mejores prácticas
-- Cómo contactarme: ¡Echa un vistazo a mis redes sociales más abajo!
 
 ---
 
